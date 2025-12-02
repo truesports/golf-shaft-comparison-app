@@ -168,6 +168,30 @@
     ]
   },
   {
+    "brand": "Project X",
+    "model": "HZRDUS RDX Blue 60",
+    "flex": "TX",
+    "weight": 65.3,
+    "torque": 3,
+    "balance_point": 21.1,
+    "tip_flex": 89,
+    "cpm": 282,
+    "ei_profile": [
+      74.6,
+      74.3,
+      71,
+      63.3,
+      55.5,
+      43.8,
+      35.1,
+      33.9,
+      36.4,
+      34.4,
+      28.6,
+      24.6
+    ]
+  },
+  {
     "brand": "Mitsubishi",
     "model": "Diamana WB 63",
     "flex": "TX",
@@ -213,6 +237,78 @@
       25.7,
       25.3,
       24
+    ]
+  },
+  {
+    "brand": "ACCRA",
+    "model": "Shogun Red 6 M5",
+    "flex": "X",
+    "weight": 66.3,
+    "torque": 3.5,
+    "balance_point": 22,
+    "tip_flex": 99,
+    "cpm": 286,
+    "ei_profile": [
+      78.2,
+      78,
+      69.2,
+      62.4,
+      53.8,
+      45.2,
+      39.5,
+      35.1,
+      31.7,
+      28,
+      24.6,
+      23.7
+    ]
+  },
+  {
+    "brand": "ACCRA",
+    "model": "Shogun Green 6 M5",
+    "flex": "X",
+    "weight": 65.6,
+    "torque": 3.5,
+    "balance_point": 22.4,
+    "tip_flex": 81,
+    "cpm": 286,
+    "ei_profile": [
+      76,
+      75.5,
+      65.3,
+      60.8,
+      51.3,
+      46.3,
+      39.7,
+      37.6,
+      34,
+      33.3,
+      31.8,
+      28.9
+    ]
+  },
+  {
+    "brand": "Graphite Design",
+    "model": "AD DI-6",
+    "flex": "X",
+    "weight": 67.7,
+    "torque": 2.5,
+    "balance_point": 21.9,
+    "tip_flex": 100,
+    "cpm": 265,
+    "ei_profile": [
+      68,
+      64.1,
+      61.2,
+      54.9,
+      46.7,
+      41.6,
+      36.6,
+      31.6,
+      26.8,
+      25,
+      24.4,
+      24.6
     ]
   }
 ]
