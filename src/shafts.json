@@ -192,6 +192,54 @@
     ]
   },
   {
+    "brand": "Project X",
+    "model": "Denali FRST Black 60",
+    "flex": "TX",
+    "weight": 67.5,
+    "torque": 2.8,
+    "balance_point": 21.8,
+    "tip_flex": 82,
+    "cpm": 274,
+    "ei_profile": [
+      65.3,
+      65.1,
+      62.5,
+      56.9,
+      52.5,
+      48.3,
+      42.4,
+      36.5,
+      32.5,
+      35.5,
+      34.6,
+      29.7
+    ]
+  },
+  {
+    "brand": "Project X",
+    "model": "HZRDUS G5 Yellow 60",
+    "flex": "TX",
+    "weight": 68,
+    "torque": 2.9,
+    "balance_point": 20.8,
+    "tip_flex": 94.4,
+    "cpm": 282,
+    "ei_profile": [
+      73.9,
+      73.3,
+      70.2,
+      66.2,
+      57.7,
+      48.4,
+      42.2,
+      39.1,
+      39.5,
+      36.6,
+      31.2,
+      23.3
+    ]
+  },
+  {
     "brand": "Mitsubishi",
     "model": "Diamana WB 63",
     "flex": "TX",
@@ -312,3 +360,20 @@
     ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
